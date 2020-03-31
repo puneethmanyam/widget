@@ -1,1 +1,6 @@
 .DS_Store
+build/
+.gradle/
+.idea/
+local.properties
+widget.iml
